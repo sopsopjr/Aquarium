@@ -1,0 +1,103 @@
+body{
+	background: url("image/back1.jpg") no-repeat;
+	background-size: 100%;
+	
+}
+
+p{
+	color: black;
+	padding : 30px;
+	margin: 30px;
+}
+
+h{
+	color: black;
+	font-size: 40px;
+	padding : 30px;
+	margin: 30px;
+	background : #F7831E;
+}
+
+
+h2.headline{
+	color: black;
+	font-size: 40px;
+	padding : 15px;
+	margin: 15px;
+	background : #F7831E;
+}
+
+
+nav.menu-nav ul li.bouton{
+	list-style-type: none;
+	display: inline-block;
+}
+
+nav.menu-nav ul li.bouton a{
+	color: black;
+	text-decoration: none;
+	background-color : #F7831E;
+	padding: 5px;
+	
+}
+
+nav.menu-nav ul li.bouton:hover a{
+	color: #F7831E;
+	background-color : white;
+	transition: 0,3s all; 
+}
+
+
+nav.menu ul li.bouton:hover a{
+	
+	transition: 0,3s all; 
+}
+
+nav.menu ul li.bouton{
+	list-style-type: none;
+}
+
+nav.menu ul li.bouton a{
+	text-decoration: none;
+	padding: 5px;
+	
+}
+
+header{
+	background-color: #F7831E;
+}
+
+td{
+	border:1px solid black;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+div#content div{
+	display: inline-block;
+	width:40%
+}
+
+
+div#content div.leftbox{
+	
+	background-color:  #F7831E;
+	vertical-align: top;
+	margin : 30px;
+	
+	
+
+}
+
+div#content div.rightbox{
+	
+}
+
+
+
+
+
+
+
